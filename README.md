@@ -52,7 +52,7 @@ dist/ui-dark.min.css
 
 ## Maintainers
 
-Created by Alvin and Jayden, Yoha
+Created by Dae Hyun
 
 ## License
 
