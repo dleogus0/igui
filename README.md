@@ -47,8 +47,8 @@ dist/ui-dark.min.css
 
 ## Documentation
 
-##### http://igui.io
-##### http://uiplay.igui.io
+##### https://github.com/dleogus0/igui
+
 
 ## Maintainers
 
@@ -58,7 +58,7 @@ Created by Alvin and Jayden, Yoha
 
 MIT License 
 
-Copyright (C) 2016 (```iguiSoft Inc.```)
+Copyright (C) 2018 (```iguiSoft Inc.```)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
