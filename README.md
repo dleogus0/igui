@@ -7,7 +7,7 @@ igui library only requires the user to load a single package file.
 Access to the igui class must then be configured in the markup.
 ```html
 <link rel="stylesheet" href="dist/ui.min.css" />
-<link rel="stylesheet" href="dist/ui-jennifer.min.css" />
+<link rel="stylesheet" href="dist/ui-igui.min.css" />
 <body class="igui">...</body>
 ```
 
@@ -39,8 +39,8 @@ dist/ui.js
 dist/ui.min.js
 dist/ui.css
 dist/ui.min.css
-dist/ui-jennifer.css
-dist/ui-jennifer.min.css
+dist/ui-igui.css
+dist/ui-igui.min.css
 dist/ui-dark.css
 dist/ui-dark.min.css
 ```
@@ -58,7 +58,7 @@ Created by Alvin and Jayden, Yoha
 
 MIT License 
 
-Copyright (C) 2016 (```JenniferSoft Inc.```)
+Copyright (C) 2016 (```iguiSoft Inc.```)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
